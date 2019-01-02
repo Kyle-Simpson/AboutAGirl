@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.834436b2.chunk.css",
-  "main.js": "/static/js/main.591c0c7e.chunk.js",
-  "main.js.map": "/static/js/main.591c0c7e.chunk.js.map",
-  "static/js/1.04ea0e1d.chunk.js": "/static/js/1.04ea0e1d.chunk.js",
-  "static/js/1.04ea0e1d.chunk.js.map": "/static/js/1.04ea0e1d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.834436b2.chunk.css.map": "/static/css/main.834436b2.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.b7de2893222bfa816322ec7d6fd00036.js": "/precache-manifest.b7de2893222bfa816322ec7d6fd00036.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/kes97/journal/aboutagirl/static/css/main.834436b2.chunk.css",
+  "main.js": "/kes97/journal/aboutagirl/static/js/main.e206f7ee.chunk.js",
+  "main.js.map": "/kes97/journal/aboutagirl/static/js/main.e206f7ee.chunk.js.map",
+  "static/js/1.04ea0e1d.chunk.js": "/kes97/journal/aboutagirl/static/js/1.04ea0e1d.chunk.js",
+  "static/js/1.04ea0e1d.chunk.js.map": "/kes97/journal/aboutagirl/static/js/1.04ea0e1d.chunk.js.map",
+  "runtime~main.js": "/kes97/journal/aboutagirl/static/js/runtime~main.62431999.js",
+  "runtime~main.js.map": "/kes97/journal/aboutagirl/static/js/runtime~main.62431999.js.map",
+  "static/css/main.834436b2.chunk.css.map": "/kes97/journal/aboutagirl/static/css/main.834436b2.chunk.css.map",
+  "index.html": "/kes97/journal/aboutagirl/index.html",
+  "precache-manifest.512939f3c3a7c32331f4d332840a0353.js": "/kes97/journal/aboutagirl/precache-manifest.512939f3c3a7c32331f4d332840a0353.js",
+  "service-worker.js": "/kes97/journal/aboutagirl/service-worker.js"
 }
