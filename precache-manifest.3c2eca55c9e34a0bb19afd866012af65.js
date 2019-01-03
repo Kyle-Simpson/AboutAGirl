@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/kes97/journal/aboutagirl/static/css/main.77b8fab2.chunk.css"
   },
   {
-    "revision": "aeff7f83bc772d608ecc274fe590f9a3",
+    "revision": "c11770e0aad9031e9d474bf8e3bcd72b",
     "url": "/kes97/journal/aboutagirl/index.html"
   }
 ];
