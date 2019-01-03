@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/kes97/journal/aboutagirl/static/js/runtime~main.62431999.js"
   },
   {
-    "revision": "e206f7eec4ea5d098800",
-    "url": "/kes97/journal/aboutagirl/static/js/main.e206f7ee.chunk.js"
+    "revision": "2836c1d559f4983cdc55",
+    "url": "/kes97/journal/aboutagirl/static/js/main.2836c1d5.chunk.js"
   },
   {
     "revision": "04ea0e1d2c8ff76afdbb",
     "url": "/kes97/journal/aboutagirl/static/js/1.04ea0e1d.chunk.js"
   },
   {
-    "revision": "e206f7eec4ea5d098800",
-    "url": "/kes97/journal/aboutagirl/static/css/main.834436b2.chunk.css"
+    "revision": "2836c1d559f4983cdc55",
+    "url": "/kes97/journal/aboutagirl/static/css/main.77b8fab2.chunk.css"
   },
   {
-    "revision": "3dc298a367108aca1953c17a33048085",
+    "revision": "aeff7f83bc772d608ecc274fe590f9a3",
     "url": "/kes97/journal/aboutagirl/index.html"
   }
 ];

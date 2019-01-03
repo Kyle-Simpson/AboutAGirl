@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kes97/journal/aboutagirl/precache-manifest.512939f3c3a7c32331f4d332840a0353.js"
+  "/kes97/journal/aboutagirl/precache-manifest.78a65089a8c3fbe78998bb97a11c7376.js"
 );
 
 workbox.clientsClaim();
