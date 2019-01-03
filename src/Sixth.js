@@ -37,7 +37,7 @@ export class Sixth extends Component {
                     <br></br>
                     ~<br></br>
                 </p>
-                <p>
+                <p className="trans">
                     As we wash ashore, the distance I have traveled strikes me.<br></br>
                     I reflect upon my journey and the countless people who helped me along the way.<br></br>
                     I would not have arrived without their guidance.<br></br>

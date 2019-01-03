@@ -17,13 +17,13 @@ export class Third extends Component {
                     <br></br>
                     ~<br></br>
                 </p>
-                <p>
+                <p className="trans">
                     Flight lands and I get to baggage claim.<br></br>
                     Why do I carry so much on my shoulders?<br></br>
                     8 hours to go.
                 </p>
                 <Router>
-                    <div>
+                    <div className="trans">
                         {/* Link tags make the buttons links to the correct pages based on the endpoints specified in App.js */}
                         <Link to="/fourth"><button className="btn">~</button></Link>
                     </div>

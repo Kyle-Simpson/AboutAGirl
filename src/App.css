@@ -7,3 +7,13 @@
   border:none;
   font-size:12pt;
 }
+
+.trans {
+  animation: fadein 3s;
+  -webkit-animation: fadein 3s;
+}
+
+@keyframes fadein {
+  from {opacity:0;}
+  to {opacity:1;}
+}

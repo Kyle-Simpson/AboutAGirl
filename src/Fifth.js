@@ -32,13 +32,13 @@ export class Fifth extends Component {
                     <br></br>
                     ~<br></br>
                 </p>
-                <p >
+                <p className="trans">
                     Made it onto the ferry and the stars look beautiful dancing in the sky.<br></br>
                     I want to join them, but would I fall?<br></br>
                     2 hours to go.
         </p>
                 <Router>
-                    <div>
+                    <div className="trans">
                         {/* Link tags make the buttons links to the correct pages based on the endpoints specified in App.js */}
                         <Link to="/sixth"><button className="btn btn-primary">~</button></Link>
                     </div>
