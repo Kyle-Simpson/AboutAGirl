@@ -15,7 +15,6 @@ render() {
       <div className="App">
         <Router>
           <div>
-          {/* <button><Link to="/secondPage"></Link></button> */}
           <Route exact path="/" component={First} />
           <Route path="/second" component={Second} />
           <Route path="/third" component={Third} />
